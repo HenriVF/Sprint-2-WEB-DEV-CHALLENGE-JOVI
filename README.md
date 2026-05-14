@@ -11,10 +11,10 @@
 
 ## 👥 Integrantes
 - **Nome:** [Henrique Vieira Ferreira] - **RM:** [569586]
-- **Nome:** [Leonardo Barrocal] - **RM:** []
+- **Nome:** [Leonardo Barrocal] - **RM:** [571031]
 - **Nome:** [Lucas Trevisan] - **RM:** [569731]
 - **Nome:** [Nicolas Moreira] - **RM:** [571510]
-- **Nome:** [Henrique Fredi] - **RM:** [571031]
+- **Nome:** [Henrique Fredi] - **RM:** [570257]
 
 ## 📝 Como Executar
 1. Abra o arquivo `index.html` em qualquer navegador.
