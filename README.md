@@ -1,4 +1,4 @@
-# Jovi Smartphone - Sprint 2
+# Jovi Smartphone - Sprint 2 Web Dev
  Consiste numa interface de login e cadastro para um sistema de smartphones, utilizando apenas **JAVA SCRIPT***
 
 ## 🚀 Funcionalidades
