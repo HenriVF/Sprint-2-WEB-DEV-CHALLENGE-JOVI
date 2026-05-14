@@ -1,4 +1,3 @@
-// --- 1. LÓGICA DO SLIDESHOW (Requisito de Manipulação de Imagens) ---
 const slides = [
     { icon: 'fa-google', text: 'Entre com sua conta Google', color: '#DB4437' },
     { icon: 'fa-instagram', text: 'Siga-nos no Instagram', color: '#E1306C' },
